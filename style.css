@@ -47,6 +47,7 @@ body {
   font-size: 15px;
   font-weight: 200;
   color: hsl(229, 6%, 66%);
+  background-color: hsl(0, 0%, 98%);
 }
 
 /* A elements that don't have a class get default styles */
