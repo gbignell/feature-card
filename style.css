@@ -163,7 +163,7 @@ h2 {
 }
 
 @media screen and (max-width: 1000px) {
-  .header {
+  header {
     max-width: 100%;
     padding: 3rem 1.2rem;
   }
