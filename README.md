@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gbignell/feature-card)
-- Live Site URL: [Add live site URL here](https://gbignell.github.io/feature-card)
+- Solution URL: https://github.com/gbignell/feature-card
+- Live Site URL: https://gbignell.github.io/feature-card
 
 ## My process
 
